@@ -11,7 +11,7 @@ You can try out the AI Dashboard Generator for yourself at https://labs.leniolab
 To get started with the AI Dashboard Generator, you'll need to have Node.js and npm installed on your machine. Once you've done that, you can install the dependencies by running the following command in your terminal:
 
 ```
-> npm install
+> npm install --legacy-peer-deps
 ```
 
 Then, to use the AI Dashboard Generator, simply run the following command in your terminal:
